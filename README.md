@@ -22,15 +22,15 @@
 
 这是编译后的扩展程序，先解压，然后在chrome的地址栏输入chrome://extensions/，打开开发者模式，加载已解压的扩展程序
 
-![image-20240326001106522](README.assets\image-20240326001106522.png)
+![image-20240326001106522](README.assets/image-20240326001106522.png)
 
 选择TranslateWebImages-ext文件夹，加载后扩展程序列表会显示这个
 
-![image-20240326001226668](README.assets\image-20240326001226668.png)
+![image-20240326001226668](README.assets/image-20240326001226668.png)
 
 开启后按图依次点击可以将其固定在上面
 
-![image-20240326001327981](README.assets\image-20240326001327981.png)
+![image-20240326001327981](README.assets/image-20240326001327981.png)
 
 
 
